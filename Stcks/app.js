@@ -1,6 +1,6 @@
 
 /**
- * Module dependencies.
+ * Shan Sangha
  */
 
 var express = require('express')
